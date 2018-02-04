@@ -1,0 +1,2 @@
+# sumofnumbers
+WOD E26
